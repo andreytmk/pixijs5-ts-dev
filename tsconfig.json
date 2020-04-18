@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "outDir": "js",
+    "sourceMap": true,
+    "module": "AMD",
+    "typeRoots" : ["node_modules/pixi.js"],
+    "types" : ["pixi.js"],
+  },
+}

@@ -1,0 +1,29 @@
+{
+  "name": "pixijs5-ts-dev",
+  "version": "1.0.0",
+  "description": "Example of PixiJs 5 and Typescript development setup.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreytmk/pixijs5-ts-dev.git"
+  },
+  "keywords": [
+    "PixiJs",
+    "Typescript",
+    "AMD",
+    "RequireJs"
+  ],
+  "author": "andreytmk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreytmk/pixijs5-ts-dev/issues"
+  },
+  "homepage": "https://github.com/andreytmk/pixijs5-ts-dev#readme",
+  "dependencies": {
+    "pixi.js": "^5.2.1",
+    "requirejs": "^2.3.6"
+  }
+}

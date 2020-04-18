@@ -1,0 +1,6 @@
+#gameCanvasContainer {
+  box-sizing: border-box;
+  border: 1px solid gray;
+  width: 100%;
+  line-height: 0;
+}
