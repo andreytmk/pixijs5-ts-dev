@@ -4,7 +4,7 @@ Example of how to setup PixiJS 5 and Typescript development configuration for ea
 #### Setup
 
 ```sh
-npm install pixi.js
+npm install
 ```
 
 It will install PixiJS 5 and RequireJs into node_modules folder.
